@@ -7,7 +7,9 @@ Terdapat 2 ember air masing-masing bervolume **5L** dan **3L**. Bagaimana cara a
 _Jawaban_ :
 
 1. Gunakanlah ember **5L** untuk mengisi air secara penuh
-2. Kemudian tuangkan air pada ember tersebut ke ember bervolume **3L** hingga penuh
+2. Kemudian tuangkan air pada ember **5L** ke ember bervolume **3L** hingga penuh
 3. Terisa air sebanyak **2L** pada ember bervolume **5L**
-4. Buang air pada ember **3L**. Kemudian Tuangkan sisa air pada ember **5L** ke ember **3L**
-5. Ulangi langkah 1 hingga 4 dan terkumpul air sebanyak **4L** di dalam ember
+4. Buang semua air pada ember **3L**  hingga kosong
+5. Kemudian tuangkan sisa air pada ember **5L** (sebanyak **2L**) ke ember **3L**
+6. Air dari ember **3L** dituangkan kembali ke ember lainnya
+7. Ulangi langkah 1 hingga 6 dan terkumpul air sebanyak **4L** di dalam ember lainnya
