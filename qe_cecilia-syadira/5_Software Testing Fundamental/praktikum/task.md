@@ -21,4 +21,4 @@ Kesimpulannya dari 4 Mutasi, 3 dari nya _killed_ menyebabkan gagal dalam penguji
 
 _Jawaban :_
 
-Kesimpulan dari gambar diatas menunjukkan _Code Coverage_ yang ada masih rendah sekitar 66$
+Kesimpulan dari gambar diatas menunjukkan _Code Coverage_ yang ada masih rendah sekitar 66%
