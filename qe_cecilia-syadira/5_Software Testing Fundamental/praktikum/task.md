@@ -16,7 +16,7 @@ com.hascode.tutorial.service
 - 100% Line Coverage : 6/6
 - 75% Mutation Coverage : 3/4
 
-Kesimpulannya dari 4 Mutasi, 3 dari nya _killed_ menyebabkan gagal dalam pengujian. Sedangkan 1 dari nya _survived_ yang artinya mutasi tersebut tidak memberikan dampak saat pengujian
+Kesimpulannya dari 4 Mutasi, 3 dari nya _killed_ menyebabkan gagal dalam pengujian. Sedangkan 1 dari nya _survived_ yang artinya mutasi tersebut memberikan dampak saat pengujian
 
 
 ![image](https://user-images.githubusercontent.com/91021512/187031053-434a711d-73ad-45dd-9ef1-55909ae083bf.png)
