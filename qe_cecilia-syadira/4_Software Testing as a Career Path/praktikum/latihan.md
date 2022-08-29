@@ -11,5 +11,4 @@ _Jawaban_ :
 3. Terisa air sebanyak **2L** pada ember bervolume **5L**
 4. Buang semua air pada ember **3L**  hingga kosong
 5. Kemudian tuangkan sisa air pada ember **5L** (sebanyak **2L**) ke ember **3L**
-6. Air dari ember **3L** dituangkan kembali ke ember lainnya
-7. Ulangi langkah 1 hingga 6 dan terkumpul air sebanyak **4L** di dalam ember lainnya
+6. Ulangi langkah 1 hingga 5 dan terkumpul air sebanyak **4L** di dalam ember lainnya
