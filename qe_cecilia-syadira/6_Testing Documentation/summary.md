@@ -50,5 +50,5 @@ Test Case memiliki beberapa komponen penyusun seperti :
 5. Software Tester harus memastikan bahwa tidak ada fitur atau fungsi yang belum teruji
 6. Test Case harus dapat diidentifikasi agar memudahkan software tester dalam melacak error atau mengidentifikasikan persyaratan perangkat lunak pada tahap berikutnya
 7. Dalam membuat test case harus memberikan hasil yang sama setiap kalinya
-8. Test Case yang dibuat harus bisa ditinjau oleh oramg lain
+8. Test Case yang dibuat harus bisa ditinjau oleh orang lain
 
