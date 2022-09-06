@@ -1,6 +1,6 @@
 # Resume Materi KMQE
 
-## _(9) Agile Testing _
+## _(9) Agile Testing_
 oleh Cecilia Syadira SIB-3 QA Class A
 
 ### Definisi SDLC (_Software Development Life Cycle_)
