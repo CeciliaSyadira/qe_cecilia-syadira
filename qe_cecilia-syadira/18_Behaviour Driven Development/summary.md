@@ -1,4 +1,7 @@
+# Resume Materi KMQE
 
+## _(18) Behaviour Driven Development_
+oleh Cecilia Syadira SIB-3 QA Class A
 
 ### Behaviour Driven Development
 - BDD tidak berperan dalam membantu proses pengembangan software melainkan memastikan pengembangan software tersebut benar.
@@ -14,8 +17,8 @@ Gherkin BDD Language
 - Narrative
 - Scenario
 
-### What is Cucumber?
 
+### What is Cucumber?
 Step BDD with Cucumber :
 - Write Story
 - Map Steps to Java
