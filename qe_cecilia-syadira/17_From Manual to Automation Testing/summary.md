@@ -1,6 +1,9 @@
+# Resume Materi KMQE
 
+## _(17) From Manual to Automation Testing_
+oleh Cecilia Syadira SIB-3 QA Class A
 
-Manual Testing
+### Manual Testing
 - Pada pengujian manual, kasus uji di eksekusi langsung oleh Penguji yang dibantu dengan menggunakan software melalui observasi/pengamatan manusia.
 
 Why Manual Testing
@@ -18,9 +21,8 @@ Kekurangan Manual Testing
 - Tidak mungkin untuk digunakan kembali
 
 
-Automatuon Testing
-- Pada Penguijian Otomatis,untuk mengeksekusi kasus uji perlu menggunakan automation tool
-
+### Automation Testing
+- Pada Penguijian Otomatis,untuk mengeksekusi kasus uji perlu menggunakan automation tool.
 
 Why Automation Testing
 1. Flexibility
@@ -28,14 +30,13 @@ Why Automation Testing
 3. Coverage
 4. Error-Avoidance
 
-
 Test Case yang memerlukan Automate?
 - Kasus uji yang perlu dieksekusi secara berulang
 - Kasus uji yang sulit untuk dieksekusi dengan manual
 - Kasus uji yang memakan waktu banyak dalam pengujian manual
 
 
-Automate Testing Process
+### Automate Testing Process
 1. Pemilihan Tools yang akan digunakan dalam pengujian berdasarkan kegunaan, kemudahan dan biaya
 2. Mendefinisikan scope of automation, yaitu area suatu aplikasi yang akan dilakukan pengujian
 3. Planning, design and development, tahap ini perlu membuat strategi dan rencana otomatisasi kemudian membangun script otomatisasi
