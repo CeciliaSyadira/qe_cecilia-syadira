@@ -15,7 +15,7 @@ oleh Cecilia Syadira SIB-3 QA Class A
 
 
 ### Struktur Dasar HTML
-
+```HTML
 <!DOCTYPE html>
   <html>
   <head>
@@ -25,13 +25,16 @@ oleh Cecilia Syadira SIB-3 QA Class A
    <p>Konten</p>
 </body>
 </html>
+```
 
 ### Macam-macam Tag pada HTML
-Heading & Paragraph, <h1></h1>  <h2></h2>  <h3></h3>  <h4></h4>  <h5></h5>  <h6></h6>
-Styling
-Link
-Image
-List (Ordered List & Unordered List)
-Table
-Form, 
+| Tag | Penjelasan |
+| ------ | ------ |
+| Heading & Paragraph | ```<h1></h1> <h2></h2> <h3></h3> <h4></h4> <h5></h5> <h6></h6>  ``` |
+| Styling Paragraph | ``` <strong></strong> <em></em> <s></s> <small></small> ``` |
+| Link | ``` <a></a> <link></link> ``` |
+| Image | ``` <img></img> <area></area> ``` |
+| List | ``` <ul></ul> <ol></ol> <li></li> ``` |
+| Table | ``` <table></table> <tr></tr> <td></td> <th></th> ```|
+| Form | ``` <form></form> <label></label> <input></input> <option></option> ```  |
 
